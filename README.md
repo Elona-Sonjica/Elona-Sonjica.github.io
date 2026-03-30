@@ -19,13 +19,13 @@
 
 ---
 
-
 ## Education & Certifications
  **1. NSC(Matric)** | Marina Senior Secondary School | Matriculated 2021
 
  **2. Diploma in ICT Applications Development** | Cape Peninsula University of Technology | Cape Tow | Expected 2026
 * Specialization: Full Stack Java Development.
 * Relevant Coursework: Foundations in Python, JavaScript, Machine Learning, Networking Basics, and Software Engineering Agile Methodologies.
+  
 ---
 
 ## Featured Projects
@@ -57,7 +57,6 @@
 * Phone: +27- 73-441-0731
   
 ---
-
 
 ## Let's Connect
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
