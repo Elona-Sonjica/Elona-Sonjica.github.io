@@ -1,5 +1,5 @@
 # Elona Sonjica
-**143 Sir Lowry Rd, Woodstock, Cape Town** | **222045590@mycput.ac.za** | **[LinkedIn Profile](www.linkedin.com/in/elona-sonjica-04a2ba332/)** | **[GitHub/Portfolio Link](https://github.com/Elona-Sonjica)**
+**143 Sir Lowry Rd, Woodstock, Cape Town** | **222045590@mycput.ac.za** | **[LinkedIn Profile](www.linkedin.com/in/elona-sonjica-04a2ba332/)** | **[GitHub Link](https://github.com/Elona-Sonjica)**
 
 ---
 
