@@ -63,3 +63,27 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 * **WhatsApp:** [Chat with me](https://wa.me/27731560181)
 * **Portfolio Website:** [Portfolio](Elona-Sonjica.github.io)
+
+---
+
+## Personal Reflections (STAR Method)
+
+<details>
+<summary><b>1. Reflection on using Markdown (.md)</b></summary>
+
+For my portfolio and university assignments, I needed a way to document code and project details that was more professional than a standard Word document and compatible with technical platforms. The goal was to master Markdown syntax to create a clean, structured, and version-control-friendly portfolio. I researched Markdown formatting, specifically focusing on how to integrate technical elements like code blocks for my Java projects and tables for my tech stack. I also integrated dynamic badges from Shields.io to make the contact section (like my WhatsApp link) more interactive. I successfully moved away from rich-text editors to a "Documentation as Code" approach. This resulted in a professional README.md that is instantly readable on GitHub and easy to maintain as my skills evolve.
+</details>
+
+<details>
+<summary><b>2. Reflection on the Mock Interview</b></summary>
+
+As part of the Project Presentation module, I participated in a mock interview to prepare for professional internships and roles in the South African tech industry. I had to demonstrate my ability to communicate technical concepts (like Agile and TDD) clearly while using the STAR method to answer behavioral questions. I prepared by drafting answers for common ICT questions. During the interview, I focused on my experience with the projects I did at university, explaining how I collaborated within a teams and handled the business strategy and prototyping phases. The process improved my confidence significantly. I received feedback that my technical explanations were grounded and that my use of the STAR method made my contributions to group projects clear and measurable.
+</details>
+
+<details>
+<summary><b>3. Reflection on GitHub Pages Deployment</b></summary>
+
+After building my portfolio in Markdown, I needed a way to host it as a live, accessible website for potential employers and my instructor to view without needing to navigate raw code. My objective was to deploy the repository using GitHub Pages to create a hosted URL. I configured the repository settings to enable GitHub Pages, selecting the main branch as the source. I ensured my index.md (or README.md) was properly formatted so the GitHub theme engine (Jekyll) could render it correctly. I also double-checked that all image paths for my project screenshots were relative and functional in a live environment. My portfolio is now live at a public URL. This provides a professional "landing page" for my brand, proving that I understand the full lifecycle of software, from writing code to deploying a finished product for the public.
+</details>
+
+---
